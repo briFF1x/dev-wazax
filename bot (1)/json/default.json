@@ -1,0 +1,32 @@
+{
+    "braquage": {
+        "superette": {
+            "time": "TIME IN MS ( 1000 ms = 1s )",
+            "moneyToEarn": {
+                "max": "MAX_TO_EARN",
+                "min": "MIN_TO_EARN"
+            }
+        },
+        "banque": {
+            "time": "TIME IN MS ( 1000 ms = 1s )",
+            "moneyToEarn": {
+                "max": "MAX_TO_EARN",
+                "min": "MIN_TO_EARN"
+            }
+        },
+        "bijouterie": {
+            "time": "TIME IN MS ( 1000 ms = 1s )",
+            "moneyToEarn": {
+                "max": "MAX_TO_EARN",
+                "min": "MIN_TO_EARN"
+            }
+        },
+        "atm": {
+            "time": "TIME IN MS ( 1000 ms = 1s )",
+            "moneyToEarn": {
+                "max": "MAX_TO_EARN",
+                "min": "MIN_TO_EARN"
+            }
+        }
+    }
+}
